@@ -1,0 +1,25 @@
+{
+  "name": "cypress-api-testing",
+  "version": "1.0.0",
+  "description": "cypress testing",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hebron1/Cypress-API-Testing.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "yusuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hebron1/Cypress-API-Testing/issues"
+  },
+  "homepage": "https://github.com/Hebron1/Cypress-API-Testing#readme",
+  "devDependencies": {
+    "cypress": "^15.20.1"
+  }
+}
